@@ -1,4 +1,4 @@
-#This has been authorized
+#This has been authored by John and John
 from adding import add_two, add_three
 
 def main():
