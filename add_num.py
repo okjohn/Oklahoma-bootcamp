@@ -1,5 +1,6 @@
 #This has been authorized
 def add_two(a,b):
+	print("Hello there!")
 	return a+b
 
 def main():
